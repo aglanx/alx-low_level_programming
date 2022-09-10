@@ -13,9 +13,8 @@ int main(void)
 	{
 		if (letter != 'q' && letter != 'e')
 			putchar(letter);
-	}
+	i
 	putchar('\n');
-	
 	return (0);
 
 }
