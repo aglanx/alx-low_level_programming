@@ -5,7 +5,8 @@
  *
  * Return: Always 0.
  */
-int main() {
+int main()
+{
 	int num1, num2, num3;
 
 	for (num1 = 0; num1 < 9; num1++)
@@ -28,5 +29,5 @@ int main() {
 	}
 
 	putchar('\n');
-	return 0;
+	return (0);
 }
