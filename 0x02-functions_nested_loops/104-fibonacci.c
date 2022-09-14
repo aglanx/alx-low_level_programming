@@ -6,13 +6,9 @@
  */
 int main(void)
 {
-	int count;
+	int count = 0;
 
-	unsigned long i, j, k;
-
-	unsigned long m, n, p, carry;
-
-	count = 0;
+	unsigned long i, j, k, m, n, p, carry;
 
 	i = 0;
 
