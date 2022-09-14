@@ -2,6 +2,7 @@
 /**
  *_isalpha - checks if c is a letter, lowercase or uppercase
  *@c: function parameter
+ *Return: always 0
  */
 int _isalpha(int c)
 {
