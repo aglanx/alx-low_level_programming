@@ -2,7 +2,7 @@
 
 /**
  * main - start
- * function that swaps the values of two integers
+ * swap_int - function that swaps the values of two integers
  * @a: input 1
  * @b: input 2
  * Return: integers
